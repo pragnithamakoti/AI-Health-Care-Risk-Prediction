@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+env/
+venv/
+*.sqlite3
+.env
+.streamlit/
